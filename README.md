@@ -1,29 +1,22 @@
-# fetch-local-json
+# Experiment with reading JSON from a local file
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Local Development
+
+Start the server and then view the project in your browser.
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Production
+
+Build the production assets and then serve the generated `dist` folder using the server of your choice.
+
 ```
 npm run build
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
